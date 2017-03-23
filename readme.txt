@@ -1,15 +1,2 @@
-﻿sGit is a version control system.
-
-sdfsdf 
-dsf
-ds
-f ds
-f sds
-sdf 
-dsf
-dsf 
-ds
-fds
-f
-dsf
- ds
+﻿Git is a distributed version control system.
+Git is free software.
